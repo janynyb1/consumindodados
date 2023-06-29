@@ -1,0 +1,6 @@
+c:\users\xklr9368\documents\visual studio 2015\Projects\Consumindo_WebAPI_Estudantes\Consumindo_WebAPI_Estudantes\bin\Debug\Consumindo_WebAPI_Estudantes.exe.config
+c:\users\xklr9368\documents\visual studio 2015\Projects\Consumindo_WebAPI_Estudantes\Consumindo_WebAPI_Estudantes\obj\Debug\Consumindo_WebAPI_Estudantes.csprojResolveAssemblyReference.cache
+c:\users\xklr9368\documents\visual studio 2015\Projects\Consumindo_WebAPI_Estudantes\Consumindo_WebAPI_Estudantes\obj\Debug\MainWindow.g.cs
+c:\users\xklr9368\documents\visual studio 2015\Projects\Consumindo_WebAPI_Estudantes\Consumindo_WebAPI_Estudantes\obj\Debug\App.g.cs
+c:\users\xklr9368\documents\visual studio 2015\Projects\Consumindo_WebAPI_Estudantes\Consumindo_WebAPI_Estudantes\obj\Debug\Consumindo_WebAPI_Estudantes_MarkupCompile.cache
+c:\users\xklr9368\documents\visual studio 2015\Projects\Consumindo_WebAPI_Estudantes\Consumindo_WebAPI_Estudantes\obj\Debug\Consumindo_WebAPI_Estudantes_MarkupCompile.lref
